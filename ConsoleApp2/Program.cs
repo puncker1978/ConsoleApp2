@@ -6,7 +6,7 @@ using Telegram.Bot.Types.Enums;
 using System.Net;
 using System.Net.Http;
 
-var botClient = new TelegramBotClient("5465992166:AAGYZeX5XIeBhyLu67ACyFjN2By7_D3hGnE");
+var botClient = new TelegramBotClient("TOKEN");
 
 int year;
 int month;
